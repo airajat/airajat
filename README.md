@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajat
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python, SQL, Tableau and Deep Learning
-- 💞️ I’m looking to collaborate on Artificial Intelligence
+- 🌱 I’m currently working with Python, SQL, PowerBI, Tableau, and Deep Learning
+- 💞️ I’m looking to collaborate on Machine Learning and Generative AI
 - 📫 Reach me at brajat.ai@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 😄
