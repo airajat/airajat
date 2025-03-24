@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajat
+- 👋 Hi, I’m @Rajat Banger
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently working with Python, SQL, PowerBI, Tableau, and Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning and Generative AI
